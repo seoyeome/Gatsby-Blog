@@ -66,4 +66,6 @@ public
 
 .idea
 .vscode
-.DS_Store
+.DS_Storenode_modules/
+.cache/
+public/
